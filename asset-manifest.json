@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.157addd4.css",
+    "main.js": "/static/js/main.d0ee0425.js",
+    "static/css/580.b81b8c46.chunk.css": "/static/css/580.b81b8c46.chunk.css",
+    "static/js/580.9fd90c0e.chunk.js": "/static/js/580.9fd90c0e.chunk.js",
+    "static/css/59.1a5a64f5.chunk.css": "/static/css/59.1a5a64f5.chunk.css",
+    "static/js/59.3125a76c.chunk.js": "/static/js/59.3125a76c.chunk.js",
+    "static/media/Rockstar.png": "/static/media/Rockstar.6da60e25bb390b83c9cb.png",
+    "static/media/medal.jpg": "/static/media/medal.c15c584add4178f310e3.jpg",
+    "static/media/Shaadi.png": "/static/media/Shaadi.ad7f794ab8aeac76fe6a.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/tfb.jpeg": "/static/media/tfb.189a54bb01ef441e451a.jpeg",
+    "static/media/infosys.png": "/static/media/infosys.01d54a4f1de91e7d8bd6.png",
+    "static/media/school.jpg": "/static/media/school.8ac27dc97f8d35135927.jpg",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/gulogo.png": "/static/media/gulogo.77d90df64926e684eac1.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/digitalocean.png": "/static/media/digitalocean.37e33ad315b94c8d1eae.png",
+    "static/media/hindcon.png": "/static/media/hindcon.34bbc4df9ad914541aef.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/ibm.png": "/static/media/ibm.133758c7bcbe8ef65042.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/mirai.webp": "/static/media/mirai.f47d0b79ff55a13ee31f.webp",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.157addd4.css.map": "/static/css/main.157addd4.css.map",
+    "main.d0ee0425.js.map": "/static/js/main.d0ee0425.js.map",
+    "580.b81b8c46.chunk.css.map": "/static/css/580.b81b8c46.chunk.css.map",
+    "580.9fd90c0e.chunk.js.map": "/static/js/580.9fd90c0e.chunk.js.map",
+    "59.1a5a64f5.chunk.css.map": "/static/css/59.1a5a64f5.chunk.css.map",
+    "59.3125a76c.chunk.js.map": "/static/js/59.3125a76c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157addd4.css",
+    "static/js/main.d0ee0425.js"
+  ]
+}
